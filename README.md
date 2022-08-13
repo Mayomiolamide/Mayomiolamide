@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Mayomiolamide
-- 👀 I’m interested in software engineerin, game development, machine learning 
-- 🌱 I’m currently learning c/c++
-- 💞️ I’m looking to collaborate on new projects 
-- 📫 How to reach me +2349017012098
+- 👀 I’m interested in software engineering, game development, machine learning 
+- 🌱 I’m currently learning software engineering.
+- 💞️ I’m looking to collaborate on new and amazing projects.
+- 📫 How to reach me akintayomayomiolamide@gmail.com
 
 <!---
 Mayomiolamide/Mayomiolamide is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
